@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/beefe/react-native-picker-android/issues"
   },
-  "homepage": "https://github.com/beefe/react-native-picker-android#readme"
+  "homepage": "https://github.com/beefe/react-native-picker-android#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
