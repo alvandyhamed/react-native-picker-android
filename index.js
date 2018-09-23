@@ -270,6 +270,7 @@ let styles = StyleSheet.create({
 		backgroundColor: null
 	},
 	up: {
+		width: '100%',
 		height: 90,
 		overflow: 'hidden',
 		backgroundColor: 'transparent',
@@ -312,6 +313,7 @@ let styles = StyleSheet.create({
 		marginBottom: 0
 	},
 	down: {
+		width: '100%',
 		height: 90,
 		overflow: 'hidden',
 		backgroundColor: 'transparent',
